@@ -1,6 +1,6 @@
 {
   "name": "taro-virtualized",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "taro components for efficiently rendering large lists.",
   "main": "index.js",
   "private": false,
@@ -33,14 +33,22 @@
     "type": "git",
     "url": "git+https://github.com/GrapevineLin/taro-virtualized.git"
   },
-  "keywords": ["taro", "virtualized", "list"],
+  "keywords": [
+    "taro",
+    "virtualized",
+    "list"
+  ],
   "author": "GrapevineLin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GrapevineLin/taro-virtualized/issues"
   },
   "homepage": "https://github.com/GrapevineLin/taro-virtualized#readme",
-  "browserslist": ["last 3 versions", "Android >= 4.1", "ios >= 8"],
+  "browserslist": [
+    "last 3 versions",
+    "Android >= 4.1",
+    "ios >= 8"
+  ],
   "dependencies": {
     "@babel/runtime": "^7.7.7",
     "@tarojs/components": "3.3.1",
